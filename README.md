@@ -1,2 +1,4 @@
 # Font-Chococooky
-Chococooky font magisk module  developed by Rituraj
+Chococooky font 
+magisk module
+developed by Rituraj
